@@ -1,0 +1,31 @@
+body{
+    font: normal 12pt Arial;
+    background-color: black;
+    text-align: center;
+}
+header{
+    font: normal 22pt Old English Text MT;
+    color: darkgreen;
+    text-align: center;
+}
+div#imagem{
+    margin: 30px;
+}
+section{
+    background-color: darkgreen;
+    font: normal 17pt Origin Tech Demo;
+    width: 450px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 3px 5px 10px rgb(0, 255, 0);
+    
+}
+section#login{
+    margin-top: 40px;
+    width: 350px;
+}
+footer{
+    font: normal 12pt italic;
+    color: darkgreen;
+}
